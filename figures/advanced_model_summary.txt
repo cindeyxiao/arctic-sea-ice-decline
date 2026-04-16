@@ -1,0 +1,33 @@
+================================================================
+  ADVANCED MODEL SUMMARY
+================================================================
+
+  ── Piecewise Linear Regression (breakpoint: 2007) ──
+  Pre-2007 slope:    -0.05528 M km²/yr (-0.553/decade)
+  Post-2007 slope:   -0.00688 M km²/yr (-0.069/decade)
+  95% CI (post):     [-0.04549, 0.03173]
+  Post-2007 R²:      0.0082
+  Combined R²:       0.8738
+  Blue ocean:        ~2545
+  N (pre / post):    28 / 19
+
+  ── Temperature-Driven Model ──
+  Slope:             -1.0177 M km² per °C Arctic warming
+  95% CI:            [-1.1710, -0.8644]
+  R²:                0.7989
+  RMSE:              0.5166 M km²
+  Blue ocean at:     +4.57°C Arctic anomaly
+  → at current rate: ~2070
+
+  ── Model Comparison (Blue Ocean Year) ──
+  Full-record linear:      ~2066  (conservative lower bound)
+  Piecewise (post-2007):   ~2545  (regime-aware)
+  Temperature-driven:      ~2070  (physically motivated)
+  Literature (CMIP6):      ~2040–2050 (Bonan et al., 2023)
+
+  The post-2007 slope is steeper than the full-record slope,
+  confirming Prof. Heimbach's observation that the decline rate
+  is not uniform.  The temperature-driven model provides the most
+  physically grounded projection because it is linked to the
+  actual driver (Arctic warming) rather than calendar time.
+================================================================

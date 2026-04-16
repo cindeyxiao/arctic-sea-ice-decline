@@ -1,0 +1,26 @@
+============================================================
+  LINEAR REGRESSION MODEL SUMMARY
+============================================================
+
+  Training period:  1979 – 2025
+  Observations:     47
+  Predictor:        Year (sole variable)
+  Response:         September minimum extent (M km²)
+
+  Slope:            -0.076064 M km²/yr
+                    (-0.7606 M km²/decade)
+                    (-76064 km²/yr)
+  95% CI on slope:  [-0.087409, -0.064719]
+  Intercept:        158.1549
+
+  R²:               0.8021
+  RMSE:             0.5125 M km²
+
+  Blue ocean year:  ≈ 2066
+  95% range:        1797 – 2428
+
+  Note: This baseline linear model is intentionally conservative.
+  It does not capture the documented acceleration in loss rates.
+  Published observationally-constrained CMIP6 projections place
+  the first ice-free September before 2050 (Bonan et al., 2023).
+============================================================
